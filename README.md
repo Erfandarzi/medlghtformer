@@ -34,4 +34,8 @@ pip install -e .
 - For cross-fold prediction, use scripts/main_predict_kfold.py
 - For ensemble prediction on an external dataset, use scripts/main_predict.py
 
-Please note that this project is in its early research stage and is intended for use by for-profit companies. The project is separate from any previous projects and does not bear any relation to them.
+Please note that this project is in its early research stage. The project is separate from any previous projects and does not bear any relation to them.
+
+![Alt text](data/picture.png)
+*The comparison of transformer models for segmentation*
+
