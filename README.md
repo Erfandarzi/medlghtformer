@@ -1,19 +1,19 @@
-Mammoview - Advanced Breast MRI Segmentation with Neural Networks
-Mammoview is an early-stage research project focusing on segmentation of fibroglandular tissue in breast MRI using advanced neural network architectures. This project aims to provide accurate and reliable segmentation, aiding in the diagnosis and monitoring of breast cancer.
+Segmentation+TRansformer -   Medical image segmentation with Neural Networks
+This is an early-stage research project focusing on segmentation of tissue in medical images using lightweight transformers.
+
+This project aims to provide accurate and reliable segmentation, aiding in the diagnosis and monitoring of breast cancer.
 
 
-Mammoview Neural Network
-Figure: Neural Network Architecture for Mammoview Breast Segmentation
 
 Data
 Segmentation masks for the DUKE dataset are saved at : data/Duke
 Installation
 Create a virtual environment and install the required packages:
-'''bash
+"""bash
 python -m venv venv
 source venv/bin/activate
 pip install -e .
-'''
+"""
 
 Get Started
 Prepare Data
